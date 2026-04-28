@@ -61,23 +61,10 @@ Questions:
 * “Which lab tests were abnormal?”
 
 
-# Demo Questions
+# Demo 
 
-These questions make investors/interviewers impressed:
+https://github.com/user-attachments/assets/73d78c4c-ab41-45bc-bd3b-ed990e82b6a5
 
-### Contextual reasoning
-
-* “What risks are mentioned and how are they mitigated?”
-
-### Summarization
-
-* “Summarize this document for an executive.”
-
-### Extraction
-
-* “List all medications and dosages.”
-
-### Comparison
 
 * “Compare treatment A vs treatment B.”
 
