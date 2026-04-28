@@ -1,0 +1,8 @@
+streamlit
+streamlit-authenticator
+langchain
+langchain-community
+chromadb
+pypdf
+unstructured
+pyyaml

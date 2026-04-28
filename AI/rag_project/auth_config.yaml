@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: dev@example.com
+      name: admin
+      password: admin123
+      logged_in: false
+      failed_login_attempts: 0
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: rag_auth_cookie
+
+  # $2b$12$2UB1rdr3B7tPrq1PCCgvUu2nvJDZ3GwudxMNeYMRLSIRdimJeZMmq

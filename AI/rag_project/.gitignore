@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.env.*
+.streamlit/
+chroma_db/
+.neo4j/
