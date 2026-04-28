@@ -66,8 +66,3 @@ Questions:
 https://github.com/user-attachments/assets/73d78c4c-ab41-45bc-bd3b-ed990e82b6a5
 
 
-* “Compare treatment A vs treatment B.”
-
-### Multi-hop reasoning
-
-* “Which symptoms are linked to the prescribed medication?”
