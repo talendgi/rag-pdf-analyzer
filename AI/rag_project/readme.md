@@ -15,11 +15,7 @@ A professional RAG system is typically split into several layers:
 
 
 
-###  The Streamlit UI (`app.py`)
-    streamlit run app.py
-    
-### Install requirements
-    pip install -r requirements.txt
+
 
 ###  Structure
 ```text
@@ -48,6 +44,16 @@ unstructured
 pyyaml
 ```
 
+## Run the App
+
+### Install requirements
+    pip install -r requirements.txt
+    
+###  The Streamlit UI (`app.py`)
+    streamlit run app.py
+    
+
+
 ### Key "Production" Features :
 1.  **State Management:** The PDF is only embedded once per upload via `st.session_state`.
 2.  **Modular Logic:** The UI code is clean; the RAG logic is isolated in the `src/` directory.
@@ -55,7 +61,7 @@ pyyaml
 4.  **Security:** Implements a professional login/logout flow with cookie persistence.
 
 
-Questions:
+### Example Questions:
 
 * “What diagnosis was given to the patient?”
 * “List all medications prescribed.”
@@ -65,7 +71,7 @@ Questions:
 * “Which lab tests were abnormal?”
 
 
-# Demo 
+## Demo 
 
 https://github.com/user-attachments/assets/73d78c4c-ab41-45bc-bd3b-ed990e82b6a5
 
