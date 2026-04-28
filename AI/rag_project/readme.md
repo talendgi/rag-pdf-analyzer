@@ -1,6 +1,6 @@
 A production-grade Retrieval-Augmented Generation (RAG) system , document processing, vector storage, and Streamlit UI 
 
-### 1. High-Level Architecture
+###  High-Level Architecture
 A professional RAG system is typically split into several layers:
 * **Ingestion Layer:** Handles PDF parsing, text chunking, and embedding generation.
 * **Storage Layer:** A vector database (like Pinecone, Weaviate, or ChromaDB) to store embeddings.
@@ -13,9 +13,13 @@ A professional RAG system is typically split into several layers:
 1.  Define a YAML file for user credentials (passwords should be hashed).
 2.  Use the `Authenticator` object to wrap your main app logic.
 
-### 4. The Streamlit UI (`app.py`)
 
 
+###  The Streamlit UI (`app.py`)
+    streamlit run app.py
+    
+### Install requirements
+    pip install -r requirements.txt
 
 ###  Structure
 ```text
